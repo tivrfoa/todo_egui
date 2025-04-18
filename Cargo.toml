@@ -1,0 +1,9 @@
+[package]
+name = "todo_egui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31.1"
+rusqlite = { version = "0.30", features = ["bundled"] } # use "bundled" for built-in SQLite
+

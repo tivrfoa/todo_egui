@@ -1,0 +1,5 @@
+It's crazy, but the app uses 3x more RAM when it has focus.
+
+It goes from ~90MB to ~290MB
+
+
